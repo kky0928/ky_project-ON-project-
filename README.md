@@ -1,7 +1,7 @@
 🚨 Scream Detection Project
 공장 내 응급 상황 감지를 위한 딥러닝 기반 비명 인식 및 특성 분석 프로젝트입니다.
 
-📂 파일 설명 (File Descriptions)
+📂 파일 설명 
 1. analysis.ipynb
 역할: 프로젝트 초기 탐색 및 데이터 검증용 노트북입니다.
 
